@@ -9,7 +9,7 @@
     <div>
       <ModalResult ref="modal" @close="close" :result="this.result" :pickup_datetime="item.datetime"></ModalResult>
     </div>
-    <form  @submit.prevent="predict()">
+    <form @submit.prevent="predict()">
       <div class="form-group">
         <label>Vendor id</label>
         <input type="number" class="form-control" min="1" max="2" placeholder="Vendor id" v-model="item.vendor_id" />

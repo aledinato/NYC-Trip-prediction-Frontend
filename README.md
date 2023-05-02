@@ -10,7 +10,9 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Project Setup[README.md](README.md)
+## Avviare backend
+## https://github.com/aledinato/NYC-Trip-prediction-backend.git
 
 ```sh
 npm install
